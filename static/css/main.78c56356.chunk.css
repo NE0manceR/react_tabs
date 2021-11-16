@@ -1,0 +1,2 @@
+.tabs_wrap{display:flex;grid-gap:6px;gap:6px;transform:translateY(1px)}.tab{padding:4px;border-top-left-radius:4px;border-top-right-radius:4px;border:1px solid #000;cursor:pointer;-webkit-user-select:none;-ms-user-select:none;user-select:none}.is_active{border-bottom:1px solid #44bacf}.content,.is_active{background-color:#44bacf;color:#fff}.content{padding:6px;border:1px solid #000}
+/*# sourceMappingURL=main.78c56356.chunk.css.map */
